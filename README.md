@@ -8,13 +8,13 @@
 
 ---
 
-## Descrição
+## 🔎 Descrição
 
 Este repositório contém as atividades realizadas na disciplina de **Mineração de Dados**, ministrada pelo Prof. Dr. Sergio N. Simões, durante o curso de Pós-Graduação em Desenvolvimento de Aplicações Inteligentes. Os trabalhos envolvem análises práticas utilizando conceitos de mineração de dados, com ferramentas como Python, bibliotecas de machine learning e SHAP para explicabilidade de modelos.
 
 ---
 
-## Estrutura do Repositório
+## 📝 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
 
@@ -36,9 +36,9 @@ O repositório está organizado da seguinte forma:
 
 ---
 
-## Trabalhos Realizados
+## 🔢 Trabalhos Realizados
 
-### Trabalho 1: Análise Exploratória e Clustering
+### 📊 Trabalho 1: Análise Exploratória e Clustering
 - **Objetivo:** Realizar análise exploratória dos dados, aplicar métodos de clustering (agrupamento) e interpretar os resultados.
 - **Atividades Realizadas:**
   - Análise exploratória das distribuições de atributos.
@@ -47,7 +47,7 @@ O repositório está organizado da seguinte forma:
 - **Ferramentas Utilizadas:**  
   Python, bibliotecas de visualização (Matplotlib, Seaborn) e Scikit-learn.
 
-### Trabalho 2: Regressão Linear e Seleção de Variáveis
+### 📊 Trabalho 2: Regressão Linear e Seleção de Variáveis
 - **Objetivo:** Aplicar modelos de regressão linear múltipla e explorar métodos de seleção de variáveis.
 - **Atividades Realizadas:**
   - Comparação de modelos de regressão utilizando métricas como R² e MSE.
@@ -56,7 +56,7 @@ O repositório está organizado da seguinte forma:
 - **Ferramentas Utilizadas:**  
   Python, Scikit-learn e bibliotecas de visualização.
 
-### Trabalho 3: Explicabilidade com SHAP
+### 📊 Trabalho 3: Explicabilidade com SHAP
 - **Objetivo:** Utilizar a biblioteca SHAP para explicar os modelos de machine learning.
 - **Atividades Realizadas:**
   - Geração de gráficos SHAP (Summary Plot, Waterfall Plot, Dependence Plot).
@@ -67,7 +67,7 @@ O repositório está organizado da seguinte forma:
 
 ---
 
-## Como Executar os Trabalhos
+## 🔄 Como Executar os Trabalhos
 
 1. Clone este repositório:
    ```bash
@@ -90,7 +90,7 @@ O repositório está organizado da seguinte forma:
 
 ---
 
-## Requisitos
+## 🛠️ Requisitos
 
 - Python 3.11 ou superior.
 - Bibliotecas necessárias:
@@ -108,6 +108,6 @@ O repositório está organizado da seguinte forma:
 
 ---
 
-## Licença
+## 📃 Licença
 
 Este repositório é destinado apenas para fins acadêmicos. Todo o conteúdo aqui apresentado foi desenvolvido como parte das atividades da disciplina **Mineração de Dados**.
